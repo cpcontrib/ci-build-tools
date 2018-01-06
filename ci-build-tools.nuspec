@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ci-build-tools</id>
+    <version>1.0.0</version>
+    <authors>Eric Newton</authors>
+    <owners>cpcontrib</owners>
+    <projectUrl>https://github.com/cpcontrib/ci-build-tools</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CI Build Tools</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>ci appveyor build</tags>
+  </metadata>
+</package>
